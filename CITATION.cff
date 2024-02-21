@@ -1,25 +1,25 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Nahum-Shani
-    given-names: Inbal
-  - family-names: Greer
-    given-names: Zara M
-  - family-names: Trella
-    given-names: Anna L
-  - family-names: Zhang
-    given-names: Kelly W
-  - family-names: Carpenter
-    given-names: Stephanie M
-  - family-names: Ruenger
-    given-names: Dennis
-  - family-names: Elashoff
-    given-names: David
-  - family-names: Murphy
-    given-names: Susan A
-  - family-names: Shetty
-    given-names: Vivek
-title: Optimizing an adaptive digital oral health intervention for promoting oral self-care behaviors: Micro-randomized trial protocol
+  - family-names: "Nahum-Shani"
+    given-names: "Inbal"
+  - family-names: "Greer"
+    given-names: "Zara M"
+  - family-names: "Trella"
+    given-names: "Anna L"
+  - family-names: "Zhang"
+    given-names: "Kelly W"
+  - family-names: "Carpenter"
+    given-names: "Stephanie M"
+  - family-names: "Ruenger"
+    given-names: "Dennis"
+  - family-names: "Elashoff"
+    given-names: "David"
+  - family-names: "Murphy"
+    given-names: "Susan A"
+  - family-names: "Shetty"
+    given-names: "Vivek"
+title: "Optimizing an adaptive digital oral health intervention for promoting oral self-care behaviors: Micro-randomized trial protocol"
 version: 1.0.0
 doi: 10.1016/j.cct.2024.107464
 date-released: 2024-02-01
@@ -27,27 +27,27 @@ url: "https://github.com/annatrella/oralytics-alg-details"
 preferred-citation:
   type: article
   authors:
-    - family-names: Nahum-Shani
-      given-names: Inbal
-    - family-names: Greer
-      given-names: Zara M
-    - family-names: Trella
-      given-names: Anna L
-    - family-names: Zhang
-      given-names: Kelly W
-    - family-names: Carpenter
-      given-names: Stephanie M
-    - family-names: Ruenger
-      given-names: Dennis
-    - family-names: Elashoff
-      given-names: David
-    - family-names: Murphy
-      given-names: Susan A
-    - family-names: Shetty
-      given-names: Vivek
+    - family-names: "Nahum-Shani"
+      given-names: "Inbal"
+    - family-names: "Greer"
+      given-names: "Zara M"
+    - family-names: "Trella"
+      given-names: "Anna L"
+    - family-names: "Zhang"
+      given-names: "Kelly W"
+    - family-names: "Carpenter"
+      given-names: "Stephanie M"
+    - family-names: "Ruenger"
+      given-names: "Dennis"
+    - family-names: "Elashoff"
+      given-names: "David"
+    - family-names: "Murphy"
+      given-names: "Susan A"
+    - family-names: "Shetty"
+      given-names: "Vivek"
   doi: 10.1016/j.cct.2024.107464
-  journal: Contemporary Clinical Trials
-  title: Optimizing an adaptive digital oral health intervention for promoting oral self-care behaviors: Micro-randomized trial protocol
-  publisher: Elsevier
+  journal: "Contemporary Clinical Trials"
+  title: "Optimizing an adaptive digital oral health intervention for promoting oral self-care behaviors: Micro-randomized trial protocol"
+  publisher: "Elsevier"
   volume: 139
   year: 2024
