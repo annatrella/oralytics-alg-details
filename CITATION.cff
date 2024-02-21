@@ -47,10 +47,7 @@ preferred-citation:
       given-names: Vivek
   doi: 10.1016/j.cct.2024.107464
   journal: Contemporary Clinical Trials
-  start: 1 # First page number
-  end: 10 # Last page number
   title: Optimizing an adaptive digital oral health intervention for promoting oral self-care behaviors: Micro-randomized trial protocol
   publisher: Elsevier
   volume: 139
-  pages: 107464
   year: 2024
